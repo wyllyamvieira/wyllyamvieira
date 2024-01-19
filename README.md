@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm wyllyanvieira</h1>
+<h1 align="center">Hi 👋, I'm Wyllyan Vieira</h1>
 <h3 align="center">Brazilian full stack student passionate about coffee</h3>
 
 - 🔭 I’m currently working on **TecnoHobby School**
