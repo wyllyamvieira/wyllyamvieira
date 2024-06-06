@@ -1,20 +1,58 @@
 <h1 align="center">Hi 👋, I'm Wyllyan Vieira</h1>
-<h3 align="center">Brazilian full stack student passionate about coffee</h3>
+# Wyllyan Vieira
 
-- 🔭 I’m currently working on **TecnoHobby School**
+**Desenvolvedor**
 
-- 👯 I’m looking to collaborate on [TreeMeters³ App](https://www.treemeters.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/yourlinkedin) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wyllyanvieira@hotmail.com)](mailto:wyllyanvieira@hotmail.com) 
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=http://wa.me/65998126608)](http://wa.me/65998126608) 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/wyllyanvieira)](https://github.com/wyllyanvieira)
 
-- 💬 Ask me about **php, lua, Js**
+---
 
-- 📫 How to reach me **wyllyamvieiraf@gmail.com**
+## Sobre Mim
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wyllyan-vieira-009b56292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wyllyan-vieira-009b56292/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/wyllyan.br/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/wyllyan.br/" height="30" width="40" /></a>
-<a href="https://discord.gg/@wyllyan.br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@wyllyan.br" height="30" width="40" /></a>
-</p>
+Sou desenvolvedor com experiência em PHP, JavaScript e WordPress, sempre em busca de oportunidades para aplicar minha paixão por tecnologia e inovação. Atualmente, também sou estudante de Direito.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## Experiência Profissional
+
+### Treemeters Software
+**Desenvolvedor** (2023 - 2024)
+- Desenvolvimento de ferramentas para adicionar funcionalidades como sistema de vendas e sistema de contas/assinaturas ao site.
+- Resolução de problemas em sistemas.
+
+### Rural Soluções
+**Assistente Administrativo** (2020 - 2022)
+- Organização de documentos e atendimento ao cliente.
+- Adquiri conhecimento na área administrativa.
+
+---
+
+## Educação
+
+**Faculdade Anhanguera Vila Alta - Tangará da Serra**
+- Bacharelado em Direito
+
+---
+
+## Habilidades
+
+- **Linguagens de Programação:** HTML, CSS, JavaScript (JS), PHP, Node.js.
+- **Frameworks e Plataformas:** WordPress, Node.js.
+- **Versionamento de Código:** Git, GitHub.
+- **Desenvolvimento de API:** APIs RESTful.
+- **Banco de Dados:** SQL.
+- **Atendimento ao Cliente:** Identificação de necessidades e resolução de problemas.
+- **Informática Avançada:** Software de produtividade, sistemas operacionais, resolução de problemas técnicos.
+- **Design:** Adobe Photoshop, Premiere, Illustrator, After Effects.
+- **Idiomas:** Inglês Intermediário II.
+
+---
+
+## Contato
+
+- [GitHub](https://github.com/wyllyanvieira)
+- [WhatsApp](http://wa.me/65998126608)
+- [E-mail](mailto:wyllyanvieira@hotmail.com)
