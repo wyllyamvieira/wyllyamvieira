@@ -4,7 +4,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wyllyan-vieira/)](https://www.linkedin.com/in/wyllyan-vieira/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wyllyanvieira@hotmail.com)](mailto:wyllyanvieira@hotmail.com) 
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=http://wa.me/65998126608)](http://wa.me/65998126608) 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/wyllyanvieira)](https://github.com/wyllyanvieira)
 
 ---
